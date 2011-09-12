@@ -1,6 +1,6 @@
 configs ={
   :git => {
-    :remotes => potentially_change("remotes",__FILE__),
+    :remotes => %w[MikeHawks mebeling21 ygupta01 gmgcoder smakarsky jwzcode kroleigh kchirumai sajagiffin fmustaf thartman dmaginnis ddooling vaquar brianlekan],
     :repo => "allscripts_prep"
   }
 }
